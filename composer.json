@@ -1,6 +1,3 @@
-    "bin": [
-		"bin/heroku-php-apache2",
-	]
 
     "require": {
         "php": "^7.2.10",
