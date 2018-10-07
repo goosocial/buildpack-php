@@ -1,9 +1,17 @@
+    "bin": [
+		"bin/heroku-hhvm-apache2",
+		"bin/heroku-hhvm-nginx",
+		"bin/heroku-php-apache2",
+		"bin/heroku-php-nginx"
+	]
 
-        "require": {
-		"php": "^7.2.10",
-		"ext-bcmath": "*",
-		"ext-mcrypt": "*",
-		"ext-ftp": "*",
-		"ext-gd": "*",
-		"ext-imap": "*",
-         }
+    "require": {
+        "php": "^7.2.10",
+        "ext-bcmath": "*",
+        "ext-mcrypt": "*",
+        "ext-ftp": "*",
+        "ext-gd": "*",
+        "ext-imap": "*",
+    }
+
+
