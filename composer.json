@@ -5,7 +5,7 @@
         "ext-mcrypt": "*",
         "ext-ftp": "*",
         "ext-gd": "*",
-        "ext-imap": "*",
+        "ext-imap": "*"
     }
 
 
